@@ -1,2 +1,1 @@
-# Hotel
-hotel data
+#Gamehub 1.0
